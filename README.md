@@ -1,7 +1,6 @@
-[![MasterHead]("C:\Users\gatig\OneDrive\Desktop\github image.png")](https://github.com/gatigoyal19)
+
 <h1 align="center">Hi 👋, I'm Gati Goyal</h1>
 <h3 align="center">A passionate and dedicated Student of Electronics and Communication Engineering.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20electronics%20gif&imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fbd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2.gif&imgrefurl=https%3A%2F%2Fwww.blelectronics.net%2F&docid=AnwWX5OuA5iFFM&tbnid=lautU1ESdAQc7M&vet=12ahUKEwiKyorey56IAxWSTWwGHbzrIdwQM3oECF8QAA..i&w=2048&h=1080&hcb=2&ved=2ahUKEwiKyorey56IAxWSTWwGHbzrIdwQM3oECF8QAA")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatigoyal19&label=Profile%20views&color=0e75b6&style=flat" alt="gatigoyal19" /> </p>
 
